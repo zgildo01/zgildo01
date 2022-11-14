@@ -1,8 +1,8 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Zeus Zaragoza-Gildo Banner](https://media-exp1.licdn.com/dms/image/C5616AQH7UwKVNkyt4A/profile-displaybackgroundimage-shrink_350_1400/0/1662575033740?e=1674086400&v=beta&t=SXahqwPwmApICMY2YuXi6GiTSYYwuOd9B-QTV1Jw5GY)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## Heya! I'm Zeus -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
