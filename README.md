@@ -1,20 +1,15 @@
 ![Zeus Zaragoza-Gildo Banner](https://media-exp1.licdn.com/dms/image/C5616AQH7UwKVNkyt4A/profile-displaybackgroundimage-shrink_350_1400/0/1662575033740?e=1674086400&v=beta&t=SXahqwPwmApICMY2YuXi6GiTSYYwuOd9B-QTV1Jw5GY)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
-<!-- ## Heya! I'm Zeus -->
+<h1>Hey! I'm Zeus</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+💡 &nbsp;I love constantly finding better ways to do things!\
+🎓 &nbsp;I'm a graduate of General Assembly's software engineering immersive!\
+✍️ &nbsp;In my free time, I produce music and love creative writing as hobbies!\
+💬 &nbsp;Feel free to reach out to me for projects or just to chat!\
+✉️ &nbsp;You can shoot me an email at zzaragoza-gildo@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://zeus-site.herokuapp.com/resume) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -44,6 +39,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://zeus-site.herokuapp.com/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/zgildo01"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://zeus-site.herokuapp.com/">My Portfolio</a>
+<a href="https://linkedin.com/in/zgildo01">My LinkedIn</a>
 </p>
