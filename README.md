@@ -6,7 +6,7 @@
 
 💡 &nbsp;I love constantly finding better ways to do things!\
 🎓 &nbsp;I'm a graduate of General Assembly's software engineering immersive!\
-✍️ &nbsp;In my free time, I produce music and love creative writing as hobbies!\
+✍️ &nbsp;In my free time, I play the guitar, write and research random interests like psychology and anthropology!\
 💬 &nbsp;Feel free to reach out to me for projects or just to chat!\
 ✉️ &nbsp;You can shoot me an email at zzaragoza-gildo@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://zeus-site.herokuapp.com/resume) for more details about me. I'm open to feedback and suggestions!
@@ -26,6 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A%3Fstyle%3Dflat%26logo%3Dintellijidea)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
