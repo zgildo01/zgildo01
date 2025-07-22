@@ -1,8 +1,8 @@
-![Zeus Zaragoza-Gildo Banner](https://media-exp1.licdn.com/dms/image/C5616AQH7UwKVNkyt4A/profile-displaybackgroundimage-shrink_350_1400/0/1662575033740?e=1674086400&v=beta&t=SXahqwPwmApICMY2YuXi6GiTSYYwuOd9B-QTV1Jw5GY)
+![Zeus Zaragoza-Gildo Banner](https://media.licdn.com/dms/image/v2/C5616AQH7UwKVNkyt4A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1662575034527?e=1756339200&v=beta&t=gak6dDDeXgc7zAK1aI4fmD6F9VuQNwrFvZSk8fg0YLs)
 
 <h1>Hey! I'm Zeus</h1>
 
-&nbsp;### 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me
 
 💡 &nbsp;I love constantly finding better ways to do things!\
 🎓 &nbsp;I'm a graduate of General Assembly's software engineering immersive!\
@@ -11,7 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at zzaragoza-gildo@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
-&nbsp;### 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ## 🗣️&nbsp;Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
