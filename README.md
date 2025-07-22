@@ -2,7 +2,7 @@
 
 <h1>Hey! I'm Zeus</h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+&nbsp;### 👨🏻‍💻 About Me
 
 💡 &nbsp;I love constantly finding better ways to do things!\
 🎓 &nbsp;I'm a graduate of General Assembly's software engineering immersive!\
@@ -11,7 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at zzaragoza-gildo@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
-### 🛠 &nbsp;Tech Stack\
+&nbsp;### 🛠 Tech Stack
 
 ## 🗣️&nbsp;Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
