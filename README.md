@@ -15,6 +15,7 @@
 
 ## 🗣️&nbsp;Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
