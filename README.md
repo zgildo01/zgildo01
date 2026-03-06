@@ -1,5 +1,3 @@
-![Zeus Zaragoza-Gildo Banner](https://media.licdn.com/dms/image/v2/C5616AQH7UwKVNkyt4A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1662575034527?e=1756339200&v=beta&t=gak6dDDeXgc7zAK1aI4fmD6F9VuQNwrFvZSk8fg0YLs)
-
 <h1>Hey! I'm Zeus</h1>
 
 ### 👨🏻‍💻 About Me
