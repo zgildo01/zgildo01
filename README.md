@@ -4,7 +4,7 @@
 
 💡 &nbsp;I love constantly finding better ways to do things!\
 🎓 &nbsp;I'm a graduate of General Assembly's software engineering immersive!\
-✍️ &nbsp;In my free time, I play the guitar, write and research random interests like psychology and anthropology!\
+✍️ &nbsp;In my free time, I play the guitar, write poetry and research random interests like psychology and anthropology!\
 💬 &nbsp;Feel free to reach out to me for projects or just to chat!\
 ✉️ &nbsp;You can shoot me an email at zzaragoza-gildo@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
